@@ -119,7 +119,7 @@ export default function App() {
     <div className="App">
       <h1>💯 ⭐Awesone Recommendations📚</h1>
       <br />
-      <p> Checkout my favorite books. Select a genre to get started </p>
+      <p> Select a genre to get started </p>
       <br />
       <br />
       <div>
